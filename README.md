@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aflors1
-- 👀 I’m interested in ... learning more about coding and Google analytics 
-- 🌱 I’m currently learning ... data analytics with Google 
-- 💞️ I’m looking to collaborate on ... learning about data analytics! 
+- 👀 I’m interested in ... learning more about coding
 - 📫 How to reach me ... allison.flors154@gmail.com
 
 <!---
